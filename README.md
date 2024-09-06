@@ -1,1 +1,2 @@
-# FSE_Recitation_1_F24
+# FSE Recitation 1
+Hello my name is Sushmit Vaish and I am the owner
